@@ -1,7 +1,6 @@
 ## BLACKEYE v2.0
 ##### The tool is completely free now
 
------------------------------------------------------------------------------------------------------------------------------
 
 ![alt text](https://raw.githubusercontent.com/EricksonAtHome/blackeye/main/img/bgscr.png)
 
@@ -29,7 +28,7 @@
 ##### Update: Ngrok 
 ###   Contact me on Instagram : @EricksonHolding or on responded.erickson.elite
 
------------------------------------------------------------------------------------------------------------------------------
+
 ### Coded/Upgraded by: @EricksonAtHome (https://github.com/EricksonAtHome/blackeye)
 
 #### Credits (Copyright)
