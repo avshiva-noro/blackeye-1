@@ -5,8 +5,7 @@
 ![alt text](https://raw.githubusercontent.com/EricksonAtHome/blackeye/main/img/bgscr.png)
 
 
-### UPDATES :
-##### UPDATES_TMP websites :          
+  
 
           [01] Instagram      [17] DropBox        [33] eBay               
           [02] Facebook       [18] Line           [34] Amazon         
@@ -24,9 +23,7 @@
           [14] Pinterest      [30] Steam                                
           [15] Apple ID       [31] Tiktok      
           
-##### Add:  Localtunnel
-##### Update: Ngrok 
-###   Contact me on Instagram : @EricksonHolding or on responded.erickson.elite
+
 
 
 ### Coded/Upgraded by: @EricksonAtHome (https://github.com/EricksonAtHome/blackeye)
